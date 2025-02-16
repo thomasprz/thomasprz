@@ -9,29 +9,12 @@ I'm Thomas, a quality engineer from Lille , France.
 ### Technologies
 #### QA
 ![Cucumber](https://img.shields.io/badge/Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white)
-![Playwright](https://img.shields.io/badge/-Playwright-000?&logo=playwright)
-![Postman](https://img.shields.io/badge/Postman-000?&logo=postman)
-
-#### Back-end
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-
-#### Front-end
-![HTML5](https://img.shields.io/badge/HTML5-000?&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?&logo=css3)
-
-#### Database
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![Postgresql](https://img.shields.io/badge/Postgresql-000?&logo=Postgresql)
-
-#### Others
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Git](https://img.shields.io/badge/Git-000?&logo=Git)
-![Github](https://img.shields.io/badge/Github-000?&logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-000?&logo=visualstudiocode)
-![SublimeText](https://img.shields.io/badge/SublimeText-000?&logo=sublimetext)
-
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-49728B?style=for-the-badge&logo=jenkins&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ### QA Projects resulted from Challanges or Courses 
 - 🛍️ AutomationTesting         - 🎭 Playwright Framework     [repo](https://github.com/thomasprz/automationexercice) | [report]()
