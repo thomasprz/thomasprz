@@ -8,7 +8,7 @@ I'm Thomas, a quality engineer from Lille , France.
 
 ### Technologies
 #### QA
-![Cucumber](https://img.shields.io/badge/Cucumber-000?&logo=Cucumber)
+![Cucumber]([https://img.shields.io/badge/Cucumber-000?&logo=Cucumber](https://img.shields.io/badge/Cucumber-43B02A?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-Playwright-000?&logo=playwright)
 ![Postman](https://img.shields.io/badge/Postman-000?&logo=postman)
 
