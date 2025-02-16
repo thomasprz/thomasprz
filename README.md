@@ -3,7 +3,6 @@ Hello, world! 👋
 
 I'm Thomas, a quality engineer from Lille , France.
 - 🌱 I’m currently learning test automation with Playwright and Cypress.
-- 🎯 I’m looking to collaborate as QE
 - 📫 You can reach me by [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:logika.sciuro@gmail.com)](mailto:przegralek.thomas@gmail.com) or connect on [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-przegralek/) 
 
 ### Technologies
