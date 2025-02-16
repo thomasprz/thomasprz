@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Thomas 👋
 
-<!--
-**thomasprz/thomasprz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **Quality Engineer** | 📍 Based in **Lille, France**  
+🛠️ 6+ years of experience in **Software Testing**
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning:
+- Test Automation with **Cypress** and **Playwright**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me:
+- [Gmail](mailto:przegralek.thomas@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/thomas-przegralek/)
+
+---
+
+## QA Projects
+
+### 🛍️ **AutomationExercice**  
+- 🎭 **Playwright Framework**  
+  [https://github.com/thomasprz/automationexercice](#)
