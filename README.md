@@ -6,3 +6,6 @@
 
 
 ## Formations
+-  <b>FORMATION PLAYWRIGHT</b>          | A training based on the Udemy course "Playwright: Web Automation Testing From Zero to Hero" focusing on End-to-End testing with Playwright.   [repo](https://github.com/thomasprz/formation-playwright-udemy) | [report]()
+-  <b>FORMATION API PLAYWRIGHT</b>          | A training based on the Udemy course "Playwright: Web Automation Testing From Zero to Hero" focusing on API testing with Playwright.    [repo](https://github.com/thomasprz/formation-playwrightAPI) | [report]()
+-  <b>FORMATION CUCUMBER LAYWRIGHT</b>          | A training based on the Udemy course "Playwright: Web Automation Testing From Zero to Hero" focusing on Cucumber BDD integration with Playwright.    [repo](https://github.com/thomasprz/formation-playwrightCucumber) | [report]()
