@@ -3,7 +3,7 @@
 -  <b>AUTOMATIONTESTING.COM</b> | An E2E testing project using Playwright.    [repo](https://github.com/thomasprz/E2E_automationexercise.com) | [report](https://thomasprz.github.io/E2E_automationexercise.com/)
 -  <b>SAUCEDEMO.COM</b>         | An E2E testing project using Playwright.    [repo](https://github.com/thomasprz/saucedemo.com) | [report](https://thomasprz.github.io/saucedemo.com/)
 -  <b>PARABANK.COM</b>          | An E2E testing project using Playwright.   [repo](https://github.com/thomasprz/parabank) | [report]()
--  <b>AUTOMATIONPRACTICE.PL</b> | An E2E testing project using Cypress.   [repo]() | [report]()
+-  <b>AUTOMATIONPRACTICE.PL</b> | An E2E testing project using Cypress.   [repo](https://github.com/thomasprz/E2E_automationpractice.pl) | [report]()
 
 
 
