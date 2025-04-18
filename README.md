@@ -8,4 +8,4 @@
 ## Formations
 -  <b>FORMATION PLAYWRIGHT</b>          | A training focused on End-to-End testing with Playwright.  [repo](https://github.com/thomasprz/formation-playwright-udemy)
 -  <b>FORMATION API PLAYWRIGHT</b>         | A training focused on API testing with Playwright.    [repo](https://github.com/thomasprz/formation-playwrightAPI)
--  <b>FORMATION CUCUMBER LAYWRIGHT</b>          | A training focused on Cucumber BDD integration with Playwright.     [repo](https://github.com/thomasprz/formation-playwrightCucumber)
+-  <b>FORMATION CUCUMBER PLAYWRIGHT</b>          | A training focused on Cucumber BDD integration with Playwright.     [repo](https://github.com/thomasprz/formation-playwrightCucumber)
