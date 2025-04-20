@@ -9,3 +9,7 @@
 -  <b>FORMATION PLAYWRIGHT</b>          | A training focused on End-to-End testing with Playwright.  [repo](https://github.com/thomasprz/formation-playwright-udemy)
 -  <b>FORMATION API PLAYWRIGHT</b>         | A training focused on API testing with Playwright.    [repo](https://github.com/thomasprz/formation-playwrightAPI)
 -  <b>FORMATION CUCUMBER PLAYWRIGHT</b>          | A training focused on Cucumber BDD integration with Playwright.     [repo](https://github.com/thomasprz/formation-playwrightCucumber)
+-  <b>FORMATION NODE.JS</b>          | A training focused on Node.js     [repo](https://github.com/thomasprz/formation-nodeJS)
+-  <b>FORMATION JAVA</b>          | A training focused on Java.     [repo](https://github.com/thomasprz/formation_java)
+
+
